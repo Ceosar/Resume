@@ -40,9 +40,9 @@
 - разбираюсь в директивах Vue.JS на начальном этапе.
 
 ### React
--умею создавать компоненты и импортировать в App;
--понимаю принцип работы props;
--имею собственный проект в публичном доступе.
+- умею создавать компоненты и импортировать в App;
+- понимаю принцип работы props;
+- имею собственный проект в публичном доступе.
 
 ### Git
 - знаю основные команды git;
@@ -64,9 +64,9 @@
 - есть навык работы с SQL-запросами.
 
 ### Мои проекты
--SPA React
-исходный код: https://github.com/Ceosar/firstreactproject/tree/main/proba ;
-web-страница: https://ceosar.github.io/firstreactproject/ .
+- SPA React;
+- исходный код: https://github.com/Ceosar/firstreactproject/tree/main/proba ;
+- web-страница: https://ceosar.github.io/firstreactproject/ .
 
 ### Английский
 Уровень B1, Intermediate. Читаю техническую документацию, периодически используя Google Translate.
